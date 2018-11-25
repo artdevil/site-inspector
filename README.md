@@ -1,5 +1,7 @@
 # Site Inspector
 
+THIS IS FOR SITE INSPECTOR USING LATEST GEM
+
 A Ruby Gem to sniff information about a domain's technology and capabilities.
 
 [![Gem Version](https://badge.fury.io/rb/site-inspector.svg)](http://badge.fury.io/rb/site-inspector) [![Build Status](https://travis-ci.org/benbalter/site-inspector.svg)](https://travis-ci.org/benbalter/site-inspector)
